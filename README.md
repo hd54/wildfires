@@ -1,1 +1,1 @@
-# stat_201_proj
+Stat 201 Project Proposal
